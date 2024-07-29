@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlternateResources</string>
+    <string name="message">Hello From Android</string>
+    <string name="landscape_mode">Landscape Mode</string>
+</resources>
